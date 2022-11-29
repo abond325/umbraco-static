@@ -1,6 +1,10 @@
 {
   "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
   "configurations": {
+    "1": {
+      "appLocation": ".",
+      "outputLocation": "."
+    },
     "umbraco-static": {
       "appLocation": "./",
       "outputLocation": "./",
